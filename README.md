@@ -17,7 +17,7 @@ I created this Bootstrap website to showcase my projects, education, and work hi
 
 #### Packages Used:
 
-- Owl Caroucel
+- Owl Carousel2
 - Filtering with Isotope
 
 
