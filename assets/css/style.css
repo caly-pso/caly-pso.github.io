@@ -28,6 +28,23 @@ h1, h2, h3, h4, h5, h6 {
 }
 }
 
+button {
+    color: #fff;
+    background: #382a4f;
+    border: none;
+    border-radius: 8px;
+    padding: 8px 16px;
+    margin: 4px 2px;
+    font-size: 15px;
+    cursor: pointer;
+    z-index: 99999;
+}
+button:hover {
+    color: #fff;
+        background-color: #ea5d39;
+    transition: background 0.2s ease-in-out;
+}
+
 
 /* Back to top button */
     .back-to-top {
@@ -41,7 +58,6 @@ h1, h2, h3, h4, h5, h6 {
         color: #fff;
         background: #382a4f;
         padding: .5px;
-        border-radius: 50px;
         transition: display 0.5s ease-in-out;
         z-index: 99999;
     }
