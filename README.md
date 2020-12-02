@@ -19,7 +19,7 @@ I created this Bootstrap website to showcase my projects, education, and work hi
 - Filtering with Isotope
 
 
-####: Resources: 
+#### Resources: 
 
 - https://getbootstrap.com/docs/4.0/getting-started/introduction/
 - https://www.w3schools.com/bootstrap4/default.asp
