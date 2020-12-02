@@ -1,0 +1,177 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta content="width=device-width, initial-scale=1.0" name="viewport">
+    <title>Calypso's Portfolio</title>
+    <meta content="" name="description">
+    <meta content="" name="keywords">
+
+    <!-- Favicons -->
+    <link href="assets/img/favicon.ico" rel="icon">
+
+    <!-- Fonts -->
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Raleway:300,300i,400,400i,500,500i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i" rel="stylesheet">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.7/css/all.css">
+
+
+    <!-- Linked Files -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.carousel.css" integrity="sha256-qvCL5q5O0hEpOm1CgOLQUuHzMusAZqDcAZL9ijqfOdI=" crossorigin="anonymous" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.theme.default.css" integrity="sha256-nXBV7Gr2lU0t+AwKsnS05DYtzZ81oYTXS6kj7LBQHfM=" crossorigin="anonymous" />
+    
+    <!-- Main CSS File -->
+    <link href="assets/css/style.css" rel="stylesheet">
+    <!-- Template Main JS File -->
+    <script src="assets/js/main.js"></script>
+</head>
+
+<body>
+    <nav class="navbar fixed-top navbar-expand-lg navbar-light bg-light">
+        <a class="navbar-brand" href="#">Calypso Rynkowski</a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation" >
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarNavDropdown">
+            <ul class="navbar-nav ml-auto">
+                <li class="nav-item">
+                    <a class="nav-link" href="#">Portfolio</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="about.html">About</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="resume.html">Resume</a>
+                </li>
+            </ul>
+        </div>
+        </nav>
+    <main>
+        <!--  Portfolio Section  -->
+        <section id="portfolio" class="portfolio section-bg">
+        <div class="container" data-aos="fade-up">
+        <div class="section-title">
+            <h2>Portfolio</h2>
+            <!-- <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p> -->
+            </div>
+            <div class="row">
+                <div class="col-lg-12 d-flex justify-content-center">
+                    <ul id="portfolio-fltrs">
+                        <li data-filter="*" class="filter-active">All</li>
+                        <li data-filter=".filter-python">Python</li>
+                        <li data-filter=".filter-pandas">Pandas</li>
+                        <li data-filter=".filter-sql">SQL</li> 
+                        <li data-filter=".filter-excel">Excel</li> 
+                    </ul>
+                </div>
+            </div>
+            <div class="row portfolio-container"> 
+            <!-- Project 1 -->
+            <div class="col-lg-6 col-md-6 portfolio-item filter-pandas">
+                <div class="portfolio-wrap">
+                    <img src="assets/img/portfolio/f1_details.jpg" class="img-fluid" alt="">
+                    <a href="html/f1_facts.html">
+                        <div class="portfolio-info">
+                        <h4>Formula 1 EDA</h4>
+                        <p>EDA</p>
+                        </div>
+                    </a>
+                </div>
+                    <p><strong>Formula 1 Analysis</strong></p>
+                    <p>See how I explore data from the most famous motorsport in the world using Pandas and Seaborn.</p>
+                </div>
+            <!-- Project 2 -->
+            <div class="col-lg-6 col-md-6 portfolio-item filter-pandas">
+                <div class="portfolio-wrap">
+                    <img src="assets/img/portfolio/trafficking_details.jpg" class="img-fluid" alt="">
+                    <a href="html/trafficking.html">
+                        <div class="portfolio-info">
+                        <h4>Survivors</h4>
+                        <p>EDA</p>
+                        </div>
+                    </a>
+                </div>
+                    <p><strong>Human Trafficking Survivors Analysis</strong></p>
+                    <p>Using the open source data from the Counter-Trafficking Data Collaborative, I explore the demographics of human trafficking survivors utilizing Jupyter Notebooks.</p>
+            </div>
+            <!-- Project 3 -->
+            <div class="col-lg-6 col-md-6 portfolio-item filter-pandas">
+                <div class="portfolio-wrap">
+                    <img src="assets/img/portfolio/netflix_details.jpg" class="img-fluid" alt="">
+                    <a href="html/movies_tv.html">
+                        <div class="portfolio-info">
+                        <h4>Movie and TV</h4>
+                        <p>EDA</p>
+                        </div>
+                    </a>
+                </div>
+                    <p><strong>Movie and TV Rating Analysis</strong></p>
+                    <p>Which streaming service is the best? Who was the best Bond actor? Does your favorie movie have line up how you expect? Find out in my analysis of multiple datasets of movie and TV ratings.</p>
+            </div>
+            <!-- Project 4 -->
+            <div class="col-lg-6 col-md-6 portfolio-item filter-python">
+                <div class="portfolio-wrap">
+                    <img src="assets/img/portfolio/script_details.jpg" class="img-fluid" alt="">
+                    <a href="html/scripts.html">
+                        <div class="portfolio-info">
+                        <h4>Scripts</h4>
+                        <p>Python</p>
+                        </div>
+                    </a>
+                </div>
+                    <p><strong>My Python Scripts</strong></p>
+                    <p>Here are a few simple Python scripts and apps I have created.</p>
+            </div>
+            <!-- Project 5 -->
+            <!-- <div class="col-lg-6 col-md-6 portfolio-item filter-excel">
+                <div class="portfolio-wrap">
+                    <img src="assets/img/portfolio/excel_details.jpg" class="img-fluid" alt="">
+                    <a href="html/excel.html">
+                        <div class="portfolio-info">
+                        <h4>Spreadsheets</h4>
+                        <p>Excel</p>
+                        </div>
+                    </a>
+                </div>
+                    <p><strong>Excel Analysis</strong></p>
+                    <p>Being the most widely avalible data analysis tool in the modern workplace, Excel is everywhere. Take a look at my exploration of non-profit budgets using pivot tables, interactive dashboards, and more.</p>
+            </div> -->
+        </div>
+        </section><!-- End Portfolio Section -->
+    </main>
+    <!-- End #main -->
+    <!--  Footer  -->
+    <footer id="footer">
+        <div class="container">
+        <h3>Calypso Rynkowski</h3>
+        <div class="social-links">
+            <a href="https://www.linkedin.com/in/calypsorynkowski/" class="linkedin"><i class="fab fa-linkedin"></i></a>
+            <a href="https://github.com/caly-pso" class="github"><i class="fab fa-github-square"></i></a>
+        </div>
+        </div>
+    </footer><!-- End Footer -->
+    
+    <!-- Back to Top Button -->
+    <a class="back-to-top" href="#"><i class="fas fa-arrow-alt-circle-up"></i></a>
+
+
+
+    <!-- Linked Files -->
+    <script src=”https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js”></script>
+    
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js" integrity="sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/js/bootstrap.min.js" integrity="sha384-w1Q4orYjBQndcko6MimVbzY0tgp4pWB4lZ7lr30WKz0vr/aWKhXdBNmNb5D92v7s" crossorigin="anonymous"></script>
+    <script src="https://unpkg.com/isotope-layout@3/dist/isotope.pkgd.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/owl.carousel.js" integrity="sha256-251s88HEsEfGL2RufZmRwGohKTHDYr9T+aJAazDwlGY=" crossorigin="anonymous"></script>
+
+    <!-- Main CSS File -->
+    <link href="assets/css/style.css" rel="stylesheet">
+    <!-- Template Main JS File -->
+    <script src="assets/js/main.js"></script>
+
+</body>
+</html>
