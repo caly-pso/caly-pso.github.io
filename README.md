@@ -15,13 +15,15 @@ When COVID-19 hit, I made a decision. My studies while working a full-time job w
 
 Please explore what has been four years in the making.
 
-### https://caly-pso.github.io/
+#### https://caly-pso.github.io/
 
 ---
 
-My portfolio:
 
-Utilizes:
+### Portfolio
+
+
+#### Utilizes:
 * A Bootstrap Framework
 * Packages including Owl Carousel2 and Isotope
 * HTML/CSS/JS
