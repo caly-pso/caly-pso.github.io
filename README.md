@@ -28,7 +28,7 @@ Please explore what has been four years in the making.
 * Packages including Owl Carousel2 and Isotope
 * HTML/CSS/JS
 
-Goal:
+#### Goal:
 To showcase my skills as a data analyst, and abliltiy to pick up new languages and technologies. Using Google, W3Schools, and StackOverflow, I designed and coded this website to showcase my portfolio projects and resume. Links to the resources are attached below.
 
 
