@@ -5,7 +5,7 @@ Hi there!
 
 My name is Calypso Rynkowski and I want to welcome you to my porfolio! A little about me:
 
-I was a student of Anthropology and graduated with my bachelor's from the University of Texas at San Antonio. While in college, I focused on pre-medicine, completing over 40 hours in science, and 17 hours in mathmatics courses, where I fell in love with data and statistics. At the time, I knew my future lay in how I could apply analyzing data, into actionable results, but where to start? 
+I was a student of Anthropology and graduated with my bachelor's from the University of Texas at San Antonio. While in college, I initally explored pre-medicine, completing over 40 hours in science, and 17 hours in mathmatics courses, where I fell in love with data and statistics. At the time, I knew my future lay in how I could apply analyzing data, into actionable results, but where to start? 
 
 I chose to continue on a non-traditional path. Instead of continuing on to a Masters, I decided to throw myself into the workforce, to gain expereince as a working adult. Through my first job in college as a medical scribe, I learned how itegral data was for both my job, and healthcare as a whole, while I was entered patient information into their medical records, and reviewing their past visits. My first full time job also included data entry and database searches, this time while I worked in the election department of Boulder County, ensuring voter information was correct, and helping to record actual ballots by manual entry when required by the computer algorithem. 
 
