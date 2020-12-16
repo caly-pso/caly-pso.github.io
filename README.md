@@ -1,6 +1,6 @@
 <!-- Add banner here -->
 
-[![Header](https://github.com/caly-pso/caly-pso.github.io/blob/main/img/header.png)](#Header)
+[![Header](https://github.com/caly-pso/caly-pso.github.io/blob/main/assets/img/header.png)](#Header)
 
 # My Portfolio
 
@@ -68,4 +68,4 @@ Please explore what has been four years in the making.
 
 # Contact Me
 
-[![Footer](https://github.com/caly-pso/covid_app/blob/main/img/footer.png)](#contact-me)
+[![Footer](https://github.com/caly-pso/caly-pso.github.io/blob/main/assets/img/footer.png)](#Footer)
