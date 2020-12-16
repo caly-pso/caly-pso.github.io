@@ -62,7 +62,7 @@ Please explore what has been four years in the making.
 # Visit My Other Projects
 
 - [COVID-19 App](https://github.com/caly-pso/covid_app)
-- [[Survivors of Human Trafficking EDA](https://github.com/caly-pso/EDA_trafficking_survivors)
+- [Survivors of Human Trafficking EDA](https://github.com/caly-pso/EDA_trafficking_survivors)
 
 <br>
 
