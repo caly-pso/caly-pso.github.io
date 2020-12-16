@@ -11,7 +11,6 @@
 [![Skills](https://img.shields.io/badge/-JS-yellow?style=for-the-badge)](#Skills)
 [![Skills](https://img.shields.io/badge/-Bootstrap-orange?style=for-the-badge)](#Skills)
 [![Skills](https://img.shields.io/badge/-Isotope-red?style=for-the-badge)](#Skills)
-[![Skills](https://img.shields.io/badge/-Owl--Carousel2-lightgrey?style=for-the-badge)](#Skills)
 
 <!--Colors: brightgreengreenyellowgreenyelloworangeredbluelightgrey
 successimportantcriticalinformationalinactive
@@ -51,7 +50,6 @@ Please explore what has been four years in the making.
 
 - https://getbootstrap.com/docs/4.0/getting-started/introduction/
 - https://www.w3schools.com/bootstrap4/default.asp
-- http://owlcarousel2.github.io/OwlCarousel2/docs/started-welcome.html
 - https://isotope.metafizzy.co/filtering.html
 - https://stackoverflow.com/
 
