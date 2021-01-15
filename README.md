@@ -3,7 +3,6 @@
 [![Header](https://github.com/caly-pso/caly-pso.github.io/blob/main/assets/img/header.png)](#Header)
 
 # My Portfolio
-## is awesome
 
 <!-- buttons -->
 
