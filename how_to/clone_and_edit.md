@@ -34,17 +34,17 @@ How I created my portfolio website using Bootstrap, hosted for free on GitHub Pa
 <p>
     Navigate to the folder you wish to use:
     
-    cd Users/me/Desktop
+`cd Users/me/Desktop`
 </p>
 <p>
     Initalize git:
     
-    git init
+`git init`
 </p>
 <p>
     Clone the repo:
 
-    git clone https://github.com/caly-pso/portfolio_website_template.git
+`git clone https://github.com/caly-pso/portfolio_website_template.git`
 </p>
 </details>
 
