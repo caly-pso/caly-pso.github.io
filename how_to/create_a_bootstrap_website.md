@@ -8,9 +8,9 @@
 <!-- buttons -->
 <!-- https://shields.io/ -->
 
-![GitHub pull requests](https://img.shields.io/github/languages/top/caly-pso/covid_app?style=flat-square)(#website)
-![GitHub](https://img.shields.io/github/repo-size/caly-pso/covid_app?style=flat-square)(#website)
-![GitHub last commit](https://img.shields.io/github/last-commit/caly-pso/covid_app?style=flat-square)(#website)
+[![GitHub pull requests](https://img.shields.io/github/languages/top/caly-pso/covid_app?style=flat-square)](#website)
+[![GitHub](https://img.shields.io/github/repo-size/caly-pso/covid_app?style=flat-square)](#website)
+[![GitHub last commit](https://img.shields.io/github/last-commit/caly-pso/covid_app?style=flat-square)](#website)
 
 
 # TL;DR
