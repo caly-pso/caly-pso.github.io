@@ -72,7 +72,9 @@ OR
 
 ###### [(Back to top)](#table-of-contents)
 
-[![Image of File Structure](https://github.com/caly-pso/caly-pso.github.io/blob/main/how_to/img/file_structure.png)](#edit)
+<p align="center">
+  <img width="300" src="https://apaskulin.github.io/waxtechnical/images/pup.jpg">
+</p>
 
 
 <br>
