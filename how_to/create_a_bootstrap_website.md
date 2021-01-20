@@ -1,7 +1,6 @@
 <!-- Add banner here -->
 
 [![Header](https://github.com/caly-pso/covid_app/blob/main/img/header.png)](#TL;DR)
-[![Banner](https://github.com/caly-pso/caly-pso.github.io/blob/main/assets/img/preview.png)](#TL;DR)
 
 
 # Making a Portfolio Website
