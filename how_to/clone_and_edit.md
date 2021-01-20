@@ -100,7 +100,7 @@ In order to sort and filter the projects, I used the plugin Isotope. You can cus
 
 [GitHub Pages](https://pages.github.com/)
 
-##### Now that you have made the website your own, you can host it for free on GitHub. The simplest way is to:
+#### Now that you have made the website your own, you can host it for free on GitHub. The simplest way is to:
 
 1. Make sure you have a GitHub account
 2. Create a new reposittory with the following selections
@@ -112,7 +112,7 @@ In order to sort and filter the projects, I used the plugin Isotope. You can cus
 OR
 
 <details>
-<summary><h5>Using Git</h5></summary>
+<summary><strong>Using Git</strong></summary>
 <br>
     <ol>
         <li>Make sure you have a GitHub account</li>
