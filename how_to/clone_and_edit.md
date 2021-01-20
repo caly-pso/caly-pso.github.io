@@ -73,7 +73,7 @@ OR
 ###### [(Back to top)](#table-of-contents)
 
 <p align="center">
-  <img width="300" src="https://apaskulin.github.io/waxtechnical/images/pup.jpg">
+  <img width="300" src="https://github.com/caly-pso/caly-pso.github.io/blob/main/how_to/img/file_structure.png">
 </p>
 
 
@@ -93,8 +93,8 @@ OR
 <br>
 
 
-# Contact Me
+#### I created this website to improve my own skills and am happy to share it! To see my other projects check out my [GitHub](https://github.com/caly-pso). 
 
-[![Footer](https://github.com/caly-pso/covid_app/blob/main/img/footer.png)](#contact-me)
+#### To learn how to make your own website, similar to mine, [check out how it was made](https://github.com/caly-pso/caly-pso.github.io/blob/main/how_to/create_a_bootstrap_website.md)!
 
 ###### [(Back to top)](#table-of-contents)
