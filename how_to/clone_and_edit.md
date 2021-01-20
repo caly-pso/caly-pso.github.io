@@ -123,15 +123,22 @@ OR
             <li>Select "Create repository"</li>
         </ul>
     <li>Clone the repository you just created: 
+    
     git clone https://github.com/username/username.github.io</li>
+    
     <li>Open the project's folder: 
+    
     cd username.github.io</li>
+    
     <li>Add, commit, and push your changes: 
+    
     git add --all
 
     git commit -m "Initial commit"
 
-    git push -u origin main </li>
+    git push -u origin main 
+    
+    </li>
     </ol>
 </details>
 
