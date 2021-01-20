@@ -1,7 +1,7 @@
 <!-- Add banner here -->
 
 [![Header](https://github.com/caly-pso/covid_app/blob/main/img/header.png)](#TL;DR)
-[![Banner](https://github.com/caly-pso/covid_app/blob/main/img/covid.png)](#TL;DR)
+[![Banner](https://github.com/caly-pso/caly-pso.github.io/blob/main/assets/img/preview.png)](#TL;DR)
 
 # COVID-19 Analysis
 
