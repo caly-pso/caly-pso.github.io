@@ -7,7 +7,7 @@
 
 
 
-# TL;DR
+## TL;DR
 
 How I created my portfolio website using Bootstrap, hosted for free on GitHub Pages.
 
@@ -92,9 +92,10 @@ OR
 
 <br>
 
+# About:
 
-#### I created this website to improve my own skills and am happy to share it! To see my other projects check out my [GitHub](https://github.com/caly-pso). 
+I created this website to improve my own skills and am happy to share it! To see my other projects check out my [GitHub](https://github.com/caly-pso). 
 
-#### To learn how to make your own website, similar to mine, [check out how it was made](https://github.com/caly-pso/caly-pso.github.io/blob/main/how_to/create_a_bootstrap_website.md)!
+To learn how to make your own website, similar to mine, [check out how it was made](https://github.com/caly-pso/caly-pso.github.io/blob/main/how_to/create_a_bootstrap_website.md)!
 
 ###### [(Back to top)](#table-of-contents)
