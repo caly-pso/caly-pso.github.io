@@ -57,13 +57,12 @@ OR
 <details>
 <summary>Downloading the Zip file</summary>
 <br>
-    - Open the [repo](https://github.com/caly-pso/portfolio_website_template) in your browser
-    
-    - Click the green download code button towards the top right
-    
-    - Download the repo as a zip
-    
-    - Unzip the files and place them in the folder you wish to work with
+    <ul>
+    <li>Open the <a class="nav-link" href="https://github.com/caly-pso/portfolio_website_template">repo</a> in your browser</li>
+    <li>Click the green download code button towards the top right</li>
+    <li>Download the repo as a zip</li>
+    <li>Unzip the files and place them in the folder you wish to work with</li>
+    </ul>
 </details>
 
 <br>
