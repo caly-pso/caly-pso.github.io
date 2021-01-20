@@ -40,7 +40,6 @@ print("hello world!")
 
 <details><summary>Using Git</summary>
 <br>
-    <p>
     Navigate to the folder you wish to use
     
     ```python
@@ -58,7 +57,6 @@ print("hello world!")
     ```python
     git clone https://github.com/caly-pso/portfolio_website_template.git
     ```
-    </p>
 </details>
 
 OR
