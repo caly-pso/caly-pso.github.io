@@ -34,16 +34,17 @@ How I created my portfolio website using Bootstrap, hosted for free on GitHub Pa
 - [Resume](#resume)
 - [Isotope](#isotope)
 - [Back to Top](#backtotop)
-- [Contact Me](#contact-me)
+- [GitHub Pages](#pages)
 - [Preview](#preview)
 - [License](#license)
+- [Contact Me](#contact-me)
 
 <br>
 
 
 # Background
 
-<!-- buttons -->
+What I used:
 
 ![Skills](https://img.shields.io/badge/-Bootstrap-yellowgreen?style=for-the-badge)
 
@@ -66,7 +67,16 @@ bluevioletff69b49cf-->
 
 [![Picture](#)](#layout)
 
-<!-- To modify this application, you need to open up the covid_app.py files, and the fuction and graphing python files. To -->
+A simple one-page layout for the portfolio to ensure ease of use and a uniform experience.
+
+Included are:
+A Navbar
+Projects Section
+About Section
+Resume Section
+Footer Section
+
+Each section is separated with a title and a 'back-to-top' button persists throughout the page. The navbar also remains at the top of the page for quick navigation to different sections on the page. The goal was a create a simple but informative website.
 
 <br>
 
@@ -77,9 +87,7 @@ bluevioletff69b49cf-->
 
 [Bootstrap4](https://getbootstrap.com/)
 
-[![Picture](#)](#bootstrap)
-
-<!-- To modify this application, you need to open up the covid_app.py files, and the fuction and graphing python files. To -->
+I used the web-framwo
 
 <br>
 
@@ -151,6 +159,17 @@ bluevioletff69b49cf-->
 [Scroll Back to Top](https://www.w3schools.com/howto/howto_js_scroll_to_top.asp)
 
 [![Picture](#)](#about)
+
+<!-- To modify this application, you need to open up the covid_app.py files, and the fuction and graphing python files. To -->
+
+<br>
+
+
+# GitHub Pages
+
+###### [(Back to top)](#table-of-contents)
+
+[GitHub Pages](https://pages.github.com/)
 
 <!-- To modify this application, you need to open up the covid_app.py files, and the fuction and graphing python files. To -->
 
