@@ -29,14 +29,14 @@ How I created my portfolio website using Bootstrap, hosted for free on GitHub Pa
 
 ###### [(Back to top)](#table-of-contents)
 
-<details><summary>CLICK ME</summary>
+<!-- <details><summary>CLICK ME</summary>
 <p>
 ##### yes, even hidden code blocks!
 ```python
 print("hello world!")
 ```
 </p>
-</details>
+</details> -->
 
 <details><summary>Using Git</summary>
 <br>
@@ -46,18 +46,7 @@ print("hello world!")
     ```bash
     cd Users/me/Desktop 
     ```
-    
-    Initalize git
-    
-    ```bash
-    git init 
-    ```
-    
-    Clone the repo
-    
-    ```bash
-    git clone https://github.com/caly-pso/portfolio_website_template.git
-    ```
+
     
     </p>
 </details>
