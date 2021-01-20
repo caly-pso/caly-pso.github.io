@@ -20,15 +20,9 @@ Hi there! 🙌
 
 My name is Calypso Rynkowski and I want to welcome you to my portfolio! A little about me:
 
-I was a student of Anthropology and graduated with my bachelor's from the University of Texas at San Antonio. While in college, I initially explored pre-medicine, completing over 40 hours in science, and 17 hours in mathematics courses, where I fell in love with data and statistics. At the time, I knew my future lay in how I could apply analyzing data, into actionable results, but where to start?
+I am a student of Anthropology and graduated with my bachelor's from the University of Texas at San Antonio. I have a passion for learning and a drive to find the connections hidden behind words, data, and code. Moving forward in my career, I look forward to use technology and software to help me discover patterns, answer questions, and learn more about the world.
 
-I chose to continue on a non-traditional path. Instead of continuing on to a Masters, I decided to throw myself into the workforce, to gain experience as a working adult. Through my first job in college as a medical scribe, I learned how integral data was for both my job, and healthcare as a whole, while I was entered patient information into their medical records, and reviewing their past visits. My first full time job also included data entry and database searches, this time while I worked in the election department of Boulder County, ensuring voter information was correct, and helping to record actual ballots by manual entry when required by the computer algorithm.
-
-From there, I went into 911 Call Taking and Dispatching. Again, data was all around me. Entering information, transmitting it to officers in the field, pulling database reports for background checks, etc. At this point, I knew I wanted to be a part of analyzing the data that is collected on a daily basis by everyone at a company. I transitioned into a lower stress job as a Customer Support Agent so that I could start studying to become a Data Analyst.
-
-When COVID-19 hit, I made a decision. My studies while working a full-time job were going slower than my expectations, and it was time to go all-in. I decided to put all of my time into finishing my learning, and demonstrating my analytic skills through projects, in order to make my mark in the field.
-
-Please explore what has been four years in the making.
+Coming from a non-traditional path, I have spent the last year immersing myself in coding with Python, creating databases, and applying analytical methods to explore data, in order to understand both how software works, and how it can be utilized.
 
 <br>
 
