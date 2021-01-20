@@ -100,7 +100,7 @@ In order to sort and filter the projects, I used the plugin Isotope. You can cus
 
 [GitHub Pages](https://pages.github.com/)
 
-Now that you have made the website your own, you can host it for free on GitHub. The simplest way I found to do so is:
+##### Now that you have made the website your own, you can host it for free on GitHub. The simplest way is to:
 
 1. Make sure you have a GitHub account
 2. Create a new reposittory with the following selections
@@ -112,7 +112,7 @@ Now that you have made the website your own, you can host it for free on GitHub.
 OR
 
 <details>
-<summary>Using Git</summary>
+<summary><h5>Using Git</h5></summary>
 <br>
     <ol>
         <li>Make sure you have a GitHub account</li>
@@ -124,27 +124,27 @@ OR
         </li>
         <li>Clone the repository you just created: 
                 
-                git clone https://github.com/username/username.github.io
+git clone https://github.com/username/username.github.io
                 
 </li>
             <li>Open the project's folder: 
                 
-                cd username.github.io
+cd username.github.io
 
 </li>
             <li>Add, commit, and push your changes: 
-                
                 git add --all
 
-                git commit -m "Initial commit"
+git commit -m "Initial commit"
 
-                git push -u origin main 
+git push -u origin main 
         
 </li></ol>
         
 </details>
 
-After 5-10 minutes your website will be viewable at: https://username.github.io. If it is not there, check your repo's setting to ensure the GitHub Pages source is pointing to the correct branch. 
+#### Finally:
+Ater 5-10 minutes your website will be viewable at: https://username.github.io. If it is not there, check your repo's setting to ensure the GitHub Pages source is pointing to the correct branch. 
 
 <br>
 
