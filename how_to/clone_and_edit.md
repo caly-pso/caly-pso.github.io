@@ -29,6 +29,20 @@ How I created my portfolio website using Bootstrap, hosted for free on GitHub Pa
 
 ###### [(Back to top)](#table-of-contents)
 
+## collapsible markdown?
+
+<details><summary>CLICK ME</summary>
+<p>
+
+#### yes, even hidden code blocks!
+
+```python
+print("hello world!")
+```
+
+</p>
+</details>
+
 <details>
 <summary>Using Git</summary>
 <br>
