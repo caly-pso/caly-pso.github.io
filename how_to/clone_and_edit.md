@@ -124,20 +124,21 @@ OR
         </li>
         <li>Clone the repository you just created: 
                 
-git clone https://github.com/username/username.github.io
+`git clone https://github.com/username/username.github.io`
                 
 </li>
             <li>Open the project's folder: 
                 
-cd username.github.io
+`cd username.github.io`
 
 </li>
             <li>Add, commit, and push your changes: 
-                git add --all
+                
+`git add --all`
 
-git commit -m "Initial commit"
+`git commit -m "Initial commit"`
 
-git push -u origin main 
+`git push -u origin main `
         
 </li></ol>
         
