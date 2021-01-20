@@ -23,7 +23,7 @@ How I created my portfolio website using Bootstrap, hosted for free on GitHub Pa
 - [Opening the Files](#open)
 - [File Structure](#structure)
 - [Making Changes](#edit)
-- [Hosting it Using GitHub Pages](#hosting)
+- [Use GitHub Pages to Host](#hosting)
 
 <br>
 
@@ -63,7 +63,7 @@ OR
 
 ###### [(Back to top)](#table-of-contents)
 
-[![Picture](#)](#open)
+<!-- [![Picture](#)](#open) -->
 
 I uses VS Code, but any text editor such as Atom or Sublime will also work.
 
@@ -88,7 +88,7 @@ Open the project folder in your text editor. You should see multiple files and f
 
 ###### [(Back to top)](#table-of-contents)
 
-[![Picture](#)](#edit)
+<!-- [![Picture](#)](#edit) -->
 
 
 <br>
@@ -100,7 +100,7 @@ Open the project folder in your text editor. You should see multiple files and f
 
 [GitHub Pages](https://pages.github.com/)
 
-[![Picture](#)](#hosting)
+<!-- [![Picture](#)](#hosting) -->
 
 <!-- To modify this application, you need to open up the covid_app.py files, and the fuction and graphing python files. To -->
 
@@ -109,6 +109,6 @@ Open the project folder in your text editor. You should see multiple files and f
 
 # Contact Me
 
-###### [(Back to top)](#table-of-contents)
-
 [![Footer](https://github.com/caly-pso/covid_app/blob/main/img/footer.png)](#contact-me)
+
+###### [(Back to top)](#table-of-contents)
