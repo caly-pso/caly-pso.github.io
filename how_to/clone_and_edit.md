@@ -76,7 +76,7 @@ Open the project folder in your text editor. You should see multiple files and f
 
 ###### [(Back to top)](#table-of-contents)
 
-[![Picture](#)](#structure)
+[![Image of File Structure](https://github.com/caly-pso/caly-pso.github.io/blob/main/how_to/img/file_structure.png)](#structure)
 
 <!-- To modify this application, you need to open up the covid_app.py files, and the fuction and graphing python files. To -->
 
@@ -84,83 +84,25 @@ Open the project folder in your text editor. You should see multiple files and f
 
 
 
-# About
+# Making Changes
 
 ###### [(Back to top)](#table-of-contents)
 
-[![Picture](#)](#about)
+[![Picture](#)](#edit)
 
-<!-- To modify this application, you need to open up the covid_app.py files, and the fuction and graphing python files. To -->
 
 <br>
 
 
-# Resume
-
-###### [(Back to top)](#table-of-contents)
-
-[![Picture](#)](#resume)
-
-<!-- To modify this application, you need to open up the covid_app.py files, and the fuction and graphing python files. To -->
-
-<br>
-
-
-# Isotope
-
-###### [(Back to top)](#table-of-contents)
-
-[Isotope](https://isotope.metafizzy.co/)
-
-[![Picture](#)](#about)
-
-<!-- To modify this application, you need to open up the covid_app.py files, and the fuction and graphing python files. To -->
-
-<br>
-
-
-# Back to Top
-
-###### [(Back to top)](#table-of-contents)
-
-[Scroll Back to Top](https://www.w3schools.com/howto/howto_js_scroll_to_top.asp)
-
-[![Picture](#)](#about)
-
-<!-- To modify this application, you need to open up the covid_app.py files, and the fuction and graphing python files. To -->
-
-<br>
-
-
-# GitHub Pages
+# Use GitHub Pages to Host
 
 ###### [(Back to top)](#table-of-contents)
 
 [GitHub Pages](https://pages.github.com/)
 
+[![Picture](#)](#hosting)
+
 <!-- To modify this application, you need to open up the covid_app.py files, and the fuction and graphing python files. To -->
-
-<br>
-
-
-# License
-
-###### [(Back to top)](#table-of-contents)
-
-[MIT Public License](https://github.com/caly-pso/covid_app/blob/main/LICENSE.md)
-
-<br>
-
-
-<!-- Add the footer here -->
-
-# Preview
-
-###### [(Back to top)](#table-of-contents)
-
-<!-- project preview -->
-
-[![Website Preview](https://github.com/caly-pso/caly-pso.github.io/blob/main/assets/img/preview.png)](https://caly-pso.github.io/)
 
 <br>
 
