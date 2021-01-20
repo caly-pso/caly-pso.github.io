@@ -42,17 +42,23 @@ print("hello world!")
 <br>
     <p>
     Navigate to the folder you wish to use
+    
     ```bash
     cd Users/me/Desktop 
     ```
+    
     Initalize git
+    
     ```bash
     git init 
     ```
+    
     Clone the repo
+    
     ```bash
     git clone https://github.com/caly-pso/portfolio_website_template.git
     ```
+    
     </p>
 </details>
 
