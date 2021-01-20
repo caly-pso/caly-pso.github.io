@@ -42,7 +42,7 @@ Coming from a non-traditional path, I have spent the last year immersing myself 
 
 # How To:
 
-[Create your own Boostrap portfolio website](https://github.com/caly-pso/caly-pso.github.io/blob/main/how_to/create_your_own_instructions.md)
+<!-- [Create your own Boostrap portfolio website](https://github.com/caly-pso/caly-pso.github.io/blob/main/how_to/create_your_own_instructions.md) -->
 
 [Clone and edit this repo for personal use](https://github.com/caly-pso/caly-pso.github.io/blob/main/how_to/clone_and_edit.md)
 
