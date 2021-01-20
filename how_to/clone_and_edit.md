@@ -122,22 +122,28 @@ OR
             <li>Check "Initialize Repository with a README"</li>
             <li>Select "Create repository"</li>
         </ul>
-    <li>Clone the repository you just created: 
-    
-    git clone https://github.com/username/username.github.io</li>
-    
-    <li>Open the project's folder: 
-    
-    cd username.github.io</li>
-    
-    <li>Add, commit, and push your changes: 
-    
-    git add --all
+    <li>
+    <p>
+        Clone the repository you just created: 
+        
+        git clone https://github.com/username/username.github.io
+    </p>
+    <p>
+        Open the project's folder: 
+        
+        cd username.github.io
 
-    git commit -m "Initial commit"
+    </p>
+    <p>
+        Add, commit, and push your changes: 
+        
+        git add --all
 
-    git push -u origin main 
-    
+        git commit -m "Initial commit"
+
+        git push -u origin main 
+        
+    </p>
     </li>
     </ol>
 </details>
