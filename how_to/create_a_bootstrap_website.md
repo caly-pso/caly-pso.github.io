@@ -3,133 +3,160 @@
 [![Header](https://github.com/caly-pso/covid_app/blob/main/img/header.png)](#TL;DR)
 [![Banner](https://github.com/caly-pso/caly-pso.github.io/blob/main/assets/img/preview.png)](#TL;DR)
 
-# COVID-19 Analysis
+
+# Making a Portfolio Website
 
 <!-- buttons -->
 <!-- https://shields.io/ -->
 
-![GitHub pull requests](https://img.shields.io/github/languages/top/caly-pso/covid_app?style=flat-square)(#covid-19-analysis)
-![GitHub](https://img.shields.io/github/repo-size/caly-pso/covid_app?style=flat-square)(#covid-19-analysis)
-![GitHub last commit](https://img.shields.io/github/last-commit/caly-pso/covid_app?style=flat-square)(#covid-19-analysis)
-![GitHub issues](https://img.shields.io/github/issues-raw/caly-pso/covid_app?style=flat-square)(#covid-19-analysis)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/caly-pso/covid_app?style=flat-square)(#covid-19-analysis)
+![GitHub pull requests](https://img.shields.io/github/languages/top/caly-pso/covid_app?style=flat-square)(#website)
+![GitHub](https://img.shields.io/github/repo-size/caly-pso/covid_app?style=flat-square)(#website)
+![GitHub last commit](https://img.shields.io/github/last-commit/caly-pso/covid_app?style=flat-square)(#website)
+
 
 # TL;DR
 
-Vizualizing the spread of COVID-19 across the US and the World.
+How I created my portfolio website using Bootstrap, hosted for free on GitHub Pages.
 
 <br>
+
 
 # Table of contents
 
-- [COVID-19 Analysis](#covid-19-analysis)
-- [#TL;DR](#TL;DR)
+- [Making a Portfolio Website](#website)
+- [TL;DR](#TL;DR)
 - [Table of contents](#table-of-contents)
 - [Background](#background)
-- [Preview](#preview)
-- [Installation](#installation)
-- [License](#license)
-- [Visit My Other Projects](#visit-my-other-projects)
+- [Layout](#layout)
+- [Bootstrap](#bootstrap)
+- [Navbar](#navbar)
+- [Projects](#projects)
+- [About](#about)
+- [Resume](#resume)
+- [Isotope](#isotope)
+- [Back to Top](#backtotop)
 - [Contact Me](#contact-me)
+- [Preview](#preview)
+- [License](#license)
 
 <br>
 
-# Background
 
-<!-- project in breif -->
-<!-- Background
-Problem Statement
-Data Description -->
+# Background
 
 <!-- buttons -->
 
-![Skills](https://img.shields.io/badge/-Python-yellowgreen?style=for-the-badge)
-![Skills](https://img.shields.io/badge/-Pandas-yellow?style=for-the-badge)
-![Skills](https://img.shields.io/badge/-Streamlit-orange?style=for-the-badge)
+![Skills](https://img.shields.io/badge/-Bootstrap-yellowgreen?style=for-the-badge)
+
+![Skills](https://img.shields.io/badge/-HTML/CSS-yellow?style=for-the-badge)
+
+![Skills](https://img.shields.io/badge/-Isotope-orange?style=for-the-badge)
+
+![Skills](https://img.shields.io/badge/-GitHub--Pages-red?style=for-the-badge)
 
 <!--Colors: brightgreengreenyellowgreenyelloworangeredbluelightgrey
 successimportantcriticalinformationalinactive
 bluevioletff69b49cf-->
 
-Utilizing the data from COVID-19 Data Repository by the Center for Systems Science and Engineering (CSSE) at Johns Hopkins University (https://github.com/CSSEGISandData/COVID-19), I have created an interactive display of this data.
-
-Written in Python, this app uses Streamlit and Pandas to vizualize the data, and show trends over time.
-
 <br>
 
-# Preview
+
+# Layout
 
 ###### [(Back to top)](#table-of-contents)
 
-<!-- project preview -->
+[![Picture](#)](#layout)
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/caly-pso/covid_app/main/covid_dashboard.py)
-
-[![COVID Dashboard](https://github.com/caly-pso/covid_app/blob/main/img/dashboard.png)](https://share.streamlit.io/caly-pso/covid_app/main/covid_dashboard.py)
+<!-- To modify this application, you need to open up the covid_app.py files, and the fuction and graphing python files. To -->
 
 <br>
 
-# Installation
+
+# Bootstrap
 
 ###### [(Back to top)](#table-of-contents)
 
-Navigate to the folder you wish to use
+[Bootstrap4](https://getbootstrap.com/)
 
-```bash
-cd Users/me/Desktop
-```
+[![Picture](#)](#bootstrap)
 
-Initalize git
-
-```bash
-git init
-```
-
-Clone the repo
-
-```bash
-git clone https://github.com/caly-pso/covid_app.git
-```
-
-Move into the project root folder
-
-```bash
-cd covid_app
-```
-
-Create virtual environment
-
-```bash
-python -m venv .venv
-```
-
-Activate the environment
-
-```bash
-source .venv/bin/activate
-```
-
-Install the requirements
-
-```bash
-pip install -r requirements.txt
-```
-
-Run the application locally
-
-```bash
-streamlit run covid_app.py
-```
+<!-- To modify this application, you need to open up the covid_app.py files, and the fuction and graphing python files. To -->
 
 <br>
 
-<!-- # Development
+
+# Navbar
 
 ###### [(Back to top)](#table-of-contents)
 
-To modify this application, you need to open up the covid_app.py files, and the fuction and graphing python files. To
+[Navbar Examples](https://www.w3schools.com/bootstrap4/bootstrap_navbar.asp)
 
-<br> -->
+[![Picture](#)](#navbar)
+
+<!-- To modify this application, you need to open up the covid_app.py files, and the fuction and graphing python files. To -->
+
+<br>
+
+
+# Projects
+
+###### [(Back to top)](#table-of-contents)
+
+[![Picture](#)](#projects)
+
+<!-- To modify this application, you need to open up the covid_app.py files, and the fuction and graphing python files. To -->
+
+<br>
+
+
+
+# About
+
+###### [(Back to top)](#table-of-contents)
+
+[![Picture](#)](#about)
+
+<!-- To modify this application, you need to open up the covid_app.py files, and the fuction and graphing python files. To -->
+
+<br>
+
+
+# Resume
+
+###### [(Back to top)](#table-of-contents)
+
+[![Picture](#)](#resume)
+
+<!-- To modify this application, you need to open up the covid_app.py files, and the fuction and graphing python files. To -->
+
+<br>
+
+
+# Isotope
+
+###### [(Back to top)](#table-of-contents)
+
+[Isotope](https://isotope.metafizzy.co/)
+
+[![Picture](#)](#about)
+
+<!-- To modify this application, you need to open up the covid_app.py files, and the fuction and graphing python files. To -->
+
+<br>
+
+
+# Back to Top
+
+###### [(Back to top)](#table-of-contents)
+
+[Scroll Back to Top](https://www.w3schools.com/howto/howto_js_scroll_to_top.asp)
+
+[![Picture](#)](#about)
+
+<!-- To modify this application, you need to open up the covid_app.py files, and the fuction and graphing python files. To -->
+
+<br>
+
 
 # License
 
@@ -139,17 +166,19 @@ To modify this application, you need to open up the covid_app.py files, and the 
 
 <br>
 
+
 <!-- Add the footer here -->
 
-# Visit My Other Projects
+# Preview
 
 ###### [(Back to top)](#table-of-contents)
 
-- [Survivors of Human Trafficking EDA](https://github.com/caly-pso/EDA_trafficking_survivors)
-- [Formula1 Analysis](https://github.com/caly-pso/formula1_analysis)
-- [TV and Movie Analysis](https://github.com/caly-pso/moviesmoviesmovies_and_tv)
+<!-- project preview -->
+
+[![Website Preview](https://github.com/caly-pso/caly-pso.github.io/blob/main/assets/img/preview.png)](https://caly-pso.github.io/)
 
 <br>
+
 
 # Contact Me
 
