@@ -115,37 +115,30 @@ OR
 <summary>Using Git</summary>
 <br>
     <ol>
-    <li>Make sure you have a GitHub account</li>
-    <li>Create a new reposittory with the following selections
-        <ul>
-            <li>Repo Name: username.github.io (for example I named mine: caly-pso.github.io). This is what will show up in the URL</li>
-            <li>Check "Initialize Repository with a README"</li>
-            <li>Select "Create repository"</li>
-        </ul>
-    <li>
-    <p>
-        Clone the repository you just created: 
-        
-        git clone https://github.com/username/username.github.io
-    </p>
-    <p>
-        Open the project's folder: 
-        
-        cd username.github.io
+        <li>Make sure you have a GitHub account</li>
+        <li>Create a new repository with the following selections
+            <ul><li>Repo Name: username.github.io (for example I named mine: caly-pso.github.io). This is what will show up in the URL</li>
+                <li>Check "Initialize Repository with a README"</li>
+                <li>Select "Create repository"</li>
+            </ul>
+        </li>
+        <li>
+                Clone the repository you just created: 
+                
+                git clone https://github.com/username/username.github.io
+            
+                Open the project's folder: 
+                
+                cd username.github.io
 
-    </p>
-    <p>
-        Add, commit, and push your changes: 
-        
-        git add --all
+                Add, commit, and push your changes: 
+                
+                git add --all
 
-        git commit -m "Initial commit"
+                git commit -m "Initial commit"
 
-        git push -u origin main 
+                git push -u origin main 
         
-    </p>
-    </li>
-    </ol>
 </details>
 
 After 5-10 minutes your website will be viewable at: https://username.github.io. If it is not there, check your repo's setting to ensure the GitHub Pages source is pointing to the correct branch. 
