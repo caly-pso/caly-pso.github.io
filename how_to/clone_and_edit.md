@@ -3,11 +3,11 @@
 [![Header](https://github.com/caly-pso/covid_app/blob/main/img/header.png)](#TL;DR)
 
 
-# [(How to Clone and Edit This Repo)](#repo)
+# How to Clone and Edit This Repo
 
 
 
-## [(TL;DR)](#TL;DR)
+## TL;DR
 
 How I created my portfolio website using Bootstrap, hosted for free on GitHub Pages.
 
@@ -25,7 +25,7 @@ How I created my portfolio website using Bootstrap, hosted for free on GitHub Pa
 
 <br>
 
-# [(How to Clone and Edit This Repo)](#edit)
+# How to Clone and Edit This Repo
 
 ###### [(Back to top)](#table-of-contents)
 
@@ -64,7 +64,7 @@ OR
 <br>
 
 
-# [(Making Changes)](#edit)
+# Making Changes
 
 ###### [(Back to top)](#table-of-contents)
 
@@ -94,7 +94,7 @@ In order to sort and filter the projects, I used the plugin Isotope. You can cus
 <br>
 
 
-# [(Use GitHub Pages to Host)](#hosting)
+# Use GitHub Pages to Host
 
 ###### [(Back to top)](#table-of-contents)
 
