@@ -16,12 +16,12 @@ How I created my portfolio website using Bootstrap, hosted for free on GitHub Pa
 
 # Table of contents
 
-- [How to Clone and Edit This Repo](#repo)
+- [How to Clone and Edit This Repo](#How-to-Clone-and-Edit-This-Repo)
 - [TL;DR](#TL;DR)
 - [Table of contents](#table-of-contents)
-- [Cloning the Repo](#clone)
-- [Making Changes](#edit)
-- [Use GitHub Pages to Host](#hosting)
+- [Cloning the Repo](#Cloning-the-Repo)
+- [Making Changes](#Making-Changes)
+- [Use GitHub Pages to Host](#Use-GitHub-Pages-to-Host)
 
 <br>
 
