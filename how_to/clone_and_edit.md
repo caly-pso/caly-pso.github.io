@@ -9,7 +9,7 @@
 
 ## TL;DR
 
-How I created my portfolio website using Bootstrap, hosted for free on GitHub Pages.
+How you can clone my portfolio website, edit it, and host it on GitHub Pages for free.
 
 <br>
 
@@ -37,7 +37,7 @@ How I created my portfolio website using Bootstrap, hosted for free on GitHub Pa
 `cd Users/me/Desktop`
 </p>
 <p>
-    Initalize git:
+    Initialize git:
     
 `git init`
 </p>
@@ -80,16 +80,16 @@ The first thing you will want to do is to customize the index.html page. This in
 At the top, in the about section, and anywhere else you want to display it.
 
 ##### Step 2: Update the sections 
-Customize the projects section with images of your own projects and place them in the assets/img/portfolio folder. Update the path names of the images displayed, and link them to your GitHub to display the code.
+Customize the projects section with images of your own projects and place them in the `assets/img/portfolio folder`. Update the path names of the images displayed, and link them to your GitHub to display the code.
 
 Add your image to the About section, as well as your city, email, interests, and skills.
 
-Put in your resume. Type out your schooling and experience directly into the HTML, and link a PDF version of your resume to the Download Here button. Currently the PDF example is saved in the assets/img folder, where you can save your own.
+Put in your resume. Type out your schooling and experience directly into the HTML, and link a PDF version of your resume to the 'Download Here' button. Currently the PDF example is saved in the `assets/img` folder, where you can save your own.
 
-Add links to your GitHub, LinkedIn, Medium, Twitter, Youtube, etc. You can find the associated icons on [Font Awesome](https://fontawesome.com/icons?d=gallery), and add in the link to the i tag class. 
+Add links to your GitHub, LinkedIn, Medium, Twitter, Youtube, etc. You can find the associated icons on [Font Awesome](https://fontawesome.com/icons?d=gallery), and add in the link to the `i tag class`. 
 
 #### Step 3: Update the Isotope filter
-In order to sort and filter the projects, I used the plugin Isotope. You can customize these filters to be anything you want. But make sure you change both the filter options under the `ul id="portfolio-fltrs"` secttion, and within each portfolio item's div class.
+In order to sort and filter the projects, I used the plugin Isotope. You can customize these filters to be anything you want. But make sure you change both the filter options under the `ul id="portfolio-fltrs"` section, and within each portfolio item's div class.
 
 <br>
 
@@ -103,7 +103,7 @@ In order to sort and filter the projects, I used the plugin Isotope. You can cus
 #### Now that you have made the website your own, you can host it for free on GitHub. The simplest way is to:
 
 1. Make sure you have a GitHub account
-2. Create a new reposittory with the following selections
+2. Create a new repository with the following selections
     - Repo Name: username.github.io (for example I named mine: caly-pso.github.io). This is what will show up in the URL
     - Check "Initialize Repository with a README"
     - Select "Create repository"
@@ -145,7 +145,7 @@ OR
 </details>
 
 #### Finally:
-Ater 5-10 minutes your website will be viewable at: https://username.github.io. If it is not there, check your repo's setting to ensure the GitHub Pages source is pointing to the correct branch. 
+After 5-10 minutes your website will be viewable at: https://username.github.io. If it is not there, check your repo's setting to ensure the GitHub Pages source is pointing to the correct branch. 
 
 <br>
 
