@@ -30,7 +30,9 @@ Coming from a non-traditional path, I have spent the last year immersing myself 
 
 <!-- project preview -->
 
+<p align="center">
 [![Notebook Preview](https://github.com/caly-pso/caly-pso.github.io/blob/main/assets/img/preview.png)](https://caly-pso.github.io/)
+</p>
 
 <br>
 
@@ -43,8 +45,10 @@ Coming from a non-traditional path, I have spent the last year immersing myself 
 # How To:
 ### Clone and edit this repo for personal use
 <!-- [Create your own Bootstrap portfolio website](https://github.com/caly-pso/caly-pso.github.io/blob/main/how_to/create_your_own_instructions.md) -->
-<a href="https://github.com/caly-pso/technical_writing/blob/main/clone_a_portfolio_site/clone_and_edit.md"><img src="https://github.com/caly-pso/technical_writing/blob/main/assets/img/github_clone.gif" alt="Writing Example" width="450"/><br> View the Docs</a>
 
+<p align="center">
+<a href="https://github.com/caly-pso/technical_writing/blob/main/clone_a_portfolio_site/clone_and_edit.md"><img src="https://github.com/caly-pso/technical_writing/blob/main/assets/img/github_clone.gif" alt="Writing Example" width="450"/><br> View the Docs</a>
+</p>
 
 
 # Resources:
