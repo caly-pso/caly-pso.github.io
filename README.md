@@ -30,7 +30,7 @@ Coming from a non-traditional path, I have spent the last year immersing myself 
 
 <!-- project preview -->
 
-[![Notebook Preview](/assets/img/portolio/portfolio.gif)](https://caly-pso.github.io/)
+[![Notebook Preview](/assets/img/portfolio/portfolio.gif)](https://caly-pso.github.io/)
 
 <br>
 
