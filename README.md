@@ -62,7 +62,7 @@ Coming from a non-traditional path, I have spent the last year immersing myself 
 
 # Visit My Other Projects
 
-- [COVID-19 App](https://github.com/caly-pso/covid_app)
+- [Disease Dashboard App](https://github.com/caly-pso/disease_dashboard_app)
 - [Survivors of Human Trafficking EDA](https://github.com/caly-pso/EDA_trafficking_survivors)
 
 <br>
