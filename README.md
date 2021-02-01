@@ -1,6 +1,6 @@
 <!-- Add banner here -->
 
-[![Header](https://github.com/caly-pso/caly-pso.github.io/blob/main/assets/img/header.png)](#Header)
+[![Header](/assets/img/header.png)](#Header)
 
 # My Portfolio
 
@@ -30,13 +30,13 @@ Coming from a non-traditional path, I have spent the last year immersing myself 
 
 <!-- project preview -->
 
-[![Notebook Preview](https://github.com/caly-pso/caly-pso.github.io/blob/main/assets/img/preview.png)](https://caly-pso.github.io/)
+[![Notebook Preview](/assets/img/portfolio.gif)](https://caly-pso.github.io/)
 
 <br>
 
 # License
 
-[MIT Public License](https://github.com/caly-pso/caly-pso.github.io/blob/main/LICENSE.md)
+[MIT Public License](/LICENSE.md)
 
 <br>
 
@@ -69,4 +69,4 @@ Coming from a non-traditional path, I have spent the last year immersing myself 
 
 # Contact Me
 
-[![Footer](https://github.com/caly-pso/caly-pso.github.io/blob/main/assets/img/footer.png)](#Footer)
+[![Footer](/assets/img/footer.png)](#Footer)
